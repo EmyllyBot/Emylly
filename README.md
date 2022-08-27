@@ -12,3 +12,7 @@ With features to entertain and engage your members, moderation features to keep 
 And everything thanks to a 16 year old girl trying to make the world a better place!
 
 _Making your server unique and extraordinary has never been easier!_
+
+## 🤔 Inviting Loritta to your Server
+
+If you want to use Loritta on your server without messing around with hosting stuff, you can add our public instance by [clicking here](https://l.lori.fun/add-lori)! We recommend using the public instance, after all, more than 1 million guilds already use, trust and love her, so why not try it out?
