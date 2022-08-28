@@ -1,4 +1,4 @@
-<p align="center"> <img width="250px" src="https://github.com/EmyllyBot/Emylly/blob/main/emylly-resources/emylly-nobg.png"> </p>
+<p align="center"> <img width="250px" src="https://github.com/EmyllyBot/Emylly/blob/main/emylly-resources/emyllyicon.png"> </p>
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Helping+everyone+on+Discord+%F0%9F%92%AB;Making+Discord+a+Better+Place+%E2%9C%A8"> </p>
 
 <h1 align="center">❤️</h1>
